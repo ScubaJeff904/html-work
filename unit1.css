@@ -1,0 +1,14 @@
+#header {
+    color: #000000; font-family: 'Tomorrow', sans-serif; text-shadow: 2px 2px red
+}
+
+.headers {
+    color: red; font-family: 'Volkhov', serif; text-shadow: 1px 1px black
+}
+
+.button {
+    background-color: #000000; font-size: 20px; 
+    text-shadow: 2px 2px rgb(255, 0, 0);
+    font-family: 'Indie Flower', cursive; color: rgb(255, 255, 255);
+    border-radius: 10%; box-shadow: 0 10px 10px #1b02ff
+}

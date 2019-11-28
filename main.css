@@ -1,0 +1,22 @@
+.button {
+    background-color: #000000; font-size: 20px; 
+    text-shadow: 2px 2px rgb(255, 0, 0);
+    font-family: 'Indie Flower', cursive; color: rgb(255, 255, 255);
+    border-radius: 10%; box-shadow: 0 10px 10px #1b02ff
+}
+
+#header1 {
+    color: red; font-family: 'Indie Flower', cursive; text-shadow: 2px 2px blue
+}
+
+.headers {
+    color: red; font-family: 'Indie Flower', cursive; text-shadow: 1px 1px blue
+}
+
+#cya {
+        color: white; font-family: 'Chewy', cursive; text-shadow: 2px 2px rgb(0, 0, 0)
+}
+
+#links {
+    color: red; font-family: 'Volkhov', serif; text-shadow: 2px 2px blue
+}
